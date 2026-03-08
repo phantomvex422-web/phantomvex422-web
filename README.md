@@ -12,21 +12,17 @@ This profile is my lab — experiments, progress and the occasional rabbit hole.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
----
 
 ## A Bit About Me
 - Cybersecurity & AI certified
 - Interested in bug bounty, ethical hacking and security research
 - Building in public — every repo is an experiment
 - Open to internships, collaborations and anything that challenges me
-
----
 
 > "Breaking things to understand them."
