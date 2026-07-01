@@ -1,28 +1,51 @@
-## Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=Welcome%20to%20Tara's%20GitHub&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%3C/%3E%20Security%20%2B%20AI&descAlignY=58&descSize=16" width="100%"/>
+<a href="https://www.linkedin.com/in/uthara-manojkumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
+<a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
 
-CS student navigating the intersection of cybersecurity, AI and creativity.
-This profile is my lab — experiments, progress and the occasional rabbit hole.
+</div>
+<br/>
+📌 About Me
 
----
-
-## Tools & Tech
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+Hey, I'm Tara — a Cybersecurity & Digital Forensics + AI & Autonomous Systems student at Murdoch University Dubai (Class of 2027).
 
 
-## Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+🔐 Focused on becoming a Security Engineer, with a growing specialty in cloud security (AWS)
+🕵️ Interested in GRC, OSINT, and where AI meets cybersecurity
+🛠️ Currently building hands-on projects: network traffic analysis, AWS security auditing, honeypots
+🎯 Actively working through TryHackMe and Hack The Box, prepping for CTFs
+✏️ Outside of tech: drawing, painting, reading
 
 
-## A Bit About Me
-- Cybersecurity & AI certified
-- Interested in bug bounty, ethical hacking and security research
-- Building in public — every repo is an experiment
-- Open to internships, collaborations and anything that challenges me
+<br/>
+🧰 Technologies & Tools
 
-> "Breaking things to understand them."
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+</div>
+<br/>
+📊 GitHub Stats
+
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=phantomvex422-web&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9"/>
+<img height="165em" src="https://streak-stats.demolab.com/?user=phantomvex422-web&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phantomvex422-web&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" width="100%"/>
+</div>
+<br/>
+<div align="center">
+"Breaking things to understand them."
+
+</div>
