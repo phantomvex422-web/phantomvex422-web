@@ -27,7 +27,7 @@ Currently, I'm focusing my energy on cloud security (AWS) and hands-on projects 
 </table>
 <br/>
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=08d9d6)
@@ -43,10 +43,19 @@ Currently, I'm focusing my energy on cloud security (AWS) and hands-on projects 
 </div>
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=phantomvex422-web&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff2e63&icon_color=08d9d6&text_color=eaeaea"/>
-<img height="165em" src="https://streak-stats.demolab.com/?user=phantomvex422-web&hide_border=true&background=0d0221&stroke=392467&ring=ff2e63&fire=08d9d6&currStreakLabel=eaeaea&sideLabels=eaeaea&dates=eaeaea"/>
+<img height="165em" src="https://streak-stats.demolab.com/?user=phantomvex422-web&hide_border=true&background=0d0221&stroke=392467&ring=ff2e63&fire=08d9d6&currStreakNum=eaeaea&sideNums=eaeaea&currStreakLabel=eaeaea&sideLabels=eaeaea&dates=eaeaea"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phantomvex422-web&hide_border=true&bg_color=0d0221&color=08d9d6&line=ff2e63&point=eaeaea&area=true&area_color=ff2e63" width="100%"/>
+</div>
+<br/>
+
+<div align="center">
+<i>"Breaking things to understand them."</i>
 </div>
 
 <div align="center">
