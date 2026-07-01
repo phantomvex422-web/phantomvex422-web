@@ -13,16 +13,13 @@
 <tr>
 <td width="65%">
 
-## 📌 About Me
+## HI i Am Uthara!
 
-Hey, i am a Cybersecurity & Digital Forensics + AI & Autonomous Systems student
+Cybersecurity & Digital Forensics + AI/Autonomous Systems Undergrad (Class of 2027)
 
-- 🔐 Focused on becoming a **Security Engineer**, with a growing specialty in **cloud security (AWS)**
-- 🕵️ Interested in **GRC**, OSINT, and where **AI meets cybersecurity**
-- 🛠️ Currently building hands-on projects: network traffic analysis, AWS security auditing, honeypots
-- 🎯 Actively working through **TryHackMe** and **Hack The Box**, prepping for CTFs
-- ✏️ Outside of tech: drawing, painting, reading
+I'm based in the UAE and deeply passionate about building secure systems and understanding how things break so I can fix them properly.
 
+Currently, I'm focusing my energy on cloud security (AWS) and hands-on projects like network traffic analysis and honeypot deployments. My technical playground revolves around Python, Kali Linux, Wireshark, and AWS — with OSINT and GRC as growing interests alongside it.
 </td>
 <td width="35%">
 <img src="https://raw.githubusercontent.com/phantomvex422-web/phantomvex422-web/refs/heads/main/Source%20code-amico.svg" width="100%"/>
