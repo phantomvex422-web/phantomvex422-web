@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=Tara's%20GitHub&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Security%20%2B%20AI&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://raw.githubusercontent.com/phantomvex422-web/phantomvex422-web/main/cyber_pink.png" width="100%"/>
 
 <a href="https://www.linkedin.com/in/uthara-manojkumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
