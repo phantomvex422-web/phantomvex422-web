@@ -9,16 +9,26 @@
 </div>
 
 <br/>
+<table>
+<tr>
+<td width="65%">
 
 ## 📌 About Me
 
-Hey,  i am a Cybersecurity & Digital Forensics + AI & Autonomous Systems student
+Hey, i am a Cybersecurity & Digital Forensics + AI & Autonomous Systems student
 
 - 🔐 Focused on becoming a **Security Engineer**, with a growing specialty in **cloud security (AWS)**
 - 🕵️ Interested in **GRC**, OSINT, and where **AI meets cybersecurity**
 - 🛠️ Currently building hands-on projects: network traffic analysis, AWS security auditing, honeypots
 - 🎯 Actively working through **TryHackMe** and **Hack The Box**, prepping for CTFs
 - ✏️ Outside of tech: drawing, painting, reading
+
+</td>
+<td width="35%">
+<img src="https://raw.githubusercontent.com/phantomvex422-web/phantomvex422-web/refs/heads/main/Source%20code-amico.svg" width="100%"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
