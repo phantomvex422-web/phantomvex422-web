@@ -46,7 +46,7 @@ Currently, I'm focusing my energy on cloud security (AWS) and hands-on projects 
 ## GitHub Stats
 <div align="center">
 <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=phantomvex422-web&show_icons=true&hide_border=true&bg_color=000000&title_color=f28fa2&icon_color=ffffff&text_color=eaeaea"/>
-<img height="165em" src="https://streak-stats.demolab.com/?user=phantomvex422-web&hide_border=true&background=000000&stroke=392467&ring=f28fa2&fire=ffffff&currStreakNum=eaeaea&sideNums=eaeaea&currStreakLabel=eaeaea&sideLabels=eaeaea&dates=eaeaea"/>
+<img height="165em" src="https://streak-stats.demolab.com/?user=phantomvex422-web&hide_border=true&background=000000&stroke=392467&ring=f28fa2&fire=ff8a00,ffcc00&currStreakNum=eaeaea&sideNums=eaeaea&currStreakLabel=eaeaea&sideLabels=eaeaea&dates=eaeaea"/>
 </div>
 
 <div align="center">
