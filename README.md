@@ -12,7 +12,7 @@
 
 ## 📌 About Me
 
-Hey, I'm **Tara** — a Cybersecurity & Digital Forensics + AI & Autonomous Systems student at Murdoch University Dubai (Class of 2027).
+Hey,  i am a Cybersecurity & Digital Forensics + AI & Autonomous Systems student
 
 - 🔐 Focused on becoming a **Security Engineer**, with a growing specialty in **cloud security (AWS)**
 - 🕵️ Interested in **GRC**, OSINT, and where **AI meets cybersecurity**
