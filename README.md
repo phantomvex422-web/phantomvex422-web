@@ -49,9 +49,6 @@ Currently, I'm focusing my energy on cloud security (AWS) and hands-on projects 
 <img height="165em" src="https://streak-stats.demolab.com/?user=phantomvex422-web&hide_border=true&background=000000&stroke=392467&ring=f28fa2&fire=ff8a00,ffcc00&currStreakNum=eaeaea&sideNums=eaeaea&currStreakLabel=eaeaea&sideLabels=eaeaea&dates=eaeaea"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phantomvex422-web&hide_border=true&bg_color=000000&color=ffffff&line=f28fa2&point=eaeaea&area=true&area_color=f28fa2" width="100%"/>
-</div>
 <br/>
 
 <div align="center">
