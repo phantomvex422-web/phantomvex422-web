@@ -13,11 +13,15 @@
 
 ## Hi, I Am Uthara!
 
-Cybersecurity & Digital Forensics + AI/Autonomous Systems Undergrad (Class of 2027)
 
-I'm based in the UAE and deeply passionate about building secure systems and understanding how things break so I can fix them properly.
+Someone who's interested in exploring the tech world, and this is my proof of trial and errors and learning from those errors.
 
-Currently, I'm focusing my energy on cloud security (AWS) and hands-on projects like network traffic analysis and honeypot deployments. My technical playground revolves around Python, Kali Linux, Wireshark, and AWS — with OSINT and GRC as growing interests alongside it.
+I'm still early in figuring things out, so a lot of what you'll find here is me experimenting, getting stuck, and slowly making sense of it. Not everything is perfect, and that's kind of the point.
+
+Currently I am focusing on data science projects and everything around data. I like getting my hands dirty, testing ideas out, and learning as I go rather than waiting till I know everything.
+
+Feel free to look around.
+
 
 </td>
 <td width="35%">
